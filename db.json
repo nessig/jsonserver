@@ -1,0 +1,25 @@
+{
+    "tokens": [
+        {
+            "id": 0,
+            "description": "My NFT",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://lh3.googleusercontent.com/85uxrtVDnJhFN684HK5Zzqx3IZV0fxRM5cT6K1Ld6cD-Zx3xK4qoRF6HAv-P5z7A_GwosQDX7YzqRDXgUaSol8UQ",
+            "name": "My NFT 0"
+        },
+        {
+            "id": 1,
+            "description": "My NFT",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://storage.googleapis.com/opensea-static/opensea-profile/12.png",
+            "name": "My NFT 1"
+        },
+        {
+            "id": 2,
+            "description": "My NFT",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://storage.googleapis.com/opensea-static/opensea-profile/13.png",
+            "name": "My NFT 2"
+        }
+    ]
+}
